@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Weather App",
+        "github": "https://will98nicholson.github.io/WeatherApp/",
+        "img": "/Images/weather.png",
+        "description": "A basic application that can show current weather and a 5-day forecast for your city."
+    },
+    {
+        "title": "Quiz Game",
+        "img": "/Images/quiz.png",
+        "description": "An interative quiz that keeps score and displays an organized leaderboard"
+    },
+    {
+        "title": "Company Profile Generator",
+        "img": "/Images/scrnsht.png",
+        "description": "A program that will return an organized webpage with simple profiles company employees based on inputed information."
+    },
+    {
+        "title": "",
+        "img": "",
+        "description": ""
+    },
+    {
+        "title": "",
+        "img": "",
+        "description": ""
+    },
+    {
+        "title": "",
+        "img": "",
+        "description": ""
+    }
+]
