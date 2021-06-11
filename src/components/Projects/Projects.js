@@ -27,4 +27,3 @@ export function Col({ size, children }) {
     );
 }
 
-c
